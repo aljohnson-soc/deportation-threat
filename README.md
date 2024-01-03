@@ -103,9 +103,11 @@ Publicly available Google Trends data were downloaded from Google Trends (google
 
 # Code Files
 NHISCleaning.do
+
 NHISAnalysis_PublicData.do
 - Figure 1
 - Figure S1
+
 NHISAnalysis_RestrictedData.do
 - Figure 2
 - Figure 3
@@ -117,6 +119,7 @@ NHISAnalysis_RestrictedData.do
 - Table S3
 - Table S12
 - Table S13
+
 DetainersandTrendsAnalysis.do
 - Figure 4
 - Figure S6
@@ -125,8 +128,10 @@ DetainersandTrendsAnalysis.do
 - Table S4
 - Table S5
 - Table S6
+
 FactorAnalysis.do
 - Table S8
+
 MeasurementInvarianceTesting.R
 - Table S9
 - Table S10
