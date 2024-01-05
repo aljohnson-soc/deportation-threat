@@ -81,7 +81,7 @@ Figures 2 and 3, Figures S2-S5, and Tables S2, S3, S12, and S13 rely on restrict
 - USYR	Year respondent came to the U.S.
 
 ## ICE Detainers
-These restricted-access data on detainers issued by Immigration and Customs Enforcement between 2011 and 2018 are provided by Syracuse University's Transactional Access Records Clearinghouse (TRAC). To obtain the data, which were provided to us free of charge as university researchers affiliated with institutions who subscribe to TRAC, may apply for the data at the following website: https://trac.syr.edu/fellows/. The application process, as described on that website, is the following: 
+These restricted-access data on detainers issued by Immigration and Customs Enforcement between 2011 and 2018 are provided by Syracuse University's Transactional Access Records Clearinghouse (TRAC). To obtain the data, which were provided to us free of charge as university researchers affiliated with institutions who subscribe to TRAC, others may apply for the data at the following website: https://trac.syr.edu/fellows/. The application process, as described on that website, is the following: 
 
 To facilitate data access for scholarly research, TRAC has set up the TRAC Fellows program. Fellows can be appointed as Fellows In-Residence or as Outside Fellows. How to apply to become a TRAC Fellow and the terms of appointments are briefly described below:
 
